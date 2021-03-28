@@ -4,3 +4,7 @@
 ##  Description
 Build a simple and elegant application without frameworks
 ![Screen](/assets/relogio.gif)
+####  Technologies.
+- Html
+- CSS3
+- Javascript
